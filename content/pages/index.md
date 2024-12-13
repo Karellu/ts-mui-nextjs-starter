@@ -14,7 +14,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: I want to refinance
+        label: Refinance
         url: ''
         size: large
         variant: outlined
