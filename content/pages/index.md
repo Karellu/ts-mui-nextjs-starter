@@ -10,7 +10,7 @@ sections:
       - type: Button
         label: Buy a home
         url: 'https://docs.netlify.com/visual-editor/get-started/'
-        size: small
+        size: large
         variant: contained
         color: primary
       - type: Button
