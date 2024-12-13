@@ -12,7 +12,7 @@ sections:
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
-        color: primary
+        color: secondary
       - type: Button
         label: Refinance
         url: ''
