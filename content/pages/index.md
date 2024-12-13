@@ -5,10 +5,7 @@ sections:
   - type: HeroSection
     title: Ready To Buy or Refinance ?
     subtitle: Let us help.
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: "Secure\_your\_ideal\_home\_loan\_ with\_a\_trusted\_expert\_broker.\n"
     actions:
       - type: Button
         label: Start Building
