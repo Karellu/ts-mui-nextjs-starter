@@ -8,7 +8,7 @@ sections:
     text: "Secure\_your\_ideal\_home\_loan\_ with\_a\_trusted\_expert\_broker.\n"
     actions:
       - type: Button
-        label: I want to buy a home
+        label: Buy a home
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
