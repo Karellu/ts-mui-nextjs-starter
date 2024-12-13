@@ -17,7 +17,7 @@ sections:
         label: Refinance
         url: ''
         size: large
-        variant: outlined
+        variant: contained
         color: primary
     image:
       type: Image
